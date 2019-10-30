@@ -1,1 +1,1 @@
-# C code for adaptive-cross-approximation
+# C++ code for adaptive-cross-approximation
